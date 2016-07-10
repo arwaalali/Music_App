@@ -1,0 +1,98 @@
+
+body {
+	background: url("spotify-cannes.jpg");
+}
+
+.titulo2 {
+	color: white;	
+	font-family: helvetica;
+	margin-left: 690px;
+}
+
+img {
+	width: 150px;
+	margin-top: 15px;
+	}
+
+
+.login {
+	width: 200px;
+	height: 200x;
+	float: center;
+	text-align: center;
+	margin-left: 33%;
+	color: black;
+	font-family: helvetica;
+}
+
+.botonreg {
+	background-color: #1ed760;
+	color: white;
+	border-radius: 10px;
+	width: 514px;
+	height: 30px;
+	margin-top: 15px;
+}
+
+.input {	
+	width: 500px;
+	height: 30px;
+	margin-top: 5px;
+	border-radius: 7px;
+	padding-left:10px;
+}
+
+.audio{
+	width: 714px;
+	height: 25px;
+	border-radius: 7px;
+	padding-top: 15px;
+}
+
+.input2 {
+	width: 700px;
+	height: 25px;
+	margin-top: 30px;
+	border-radius: 7px;
+	padding-left:10px;
+}
+
+.playlist {
+	width:800px;
+	height: 500px;
+	border-radius: 10px;
+	float: center;
+	text-align: center;
+	margin-top: 30px;
+	margin-left: 400px;
+	color:white;
+	font-family: sans-serif;
+	background-color: #282828;
+}
+
+h1 {
+	width: 400px;
+	padding-top: 15px;
+	margin-top: 25px;
+	color: white;	
+	font-family: helvetica;
+	padding-left: 50px;
+}
+
+.add {
+	width: 714px;
+	height: 30px;
+	color:white;
+	float: center;
+	margin-top: 15px;	
+	background-color:#1ed760;
+	border-radius: 7px
+}
+
+.listacan {
+	font-family: sans-serif;
+	color: white;
+	list-style: none;
+	float: center;
+	margin-right: 40px;
+}
